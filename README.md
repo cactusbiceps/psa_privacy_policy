@@ -1,2 +1,3 @@
-# PSA Privacy Policy Repository
-Public repository that only hosts the privacy policy for the Phone Security App. 
+# PSA Privacy Policy
+
+Short and sweet: We do not track your usage or collect any data.
